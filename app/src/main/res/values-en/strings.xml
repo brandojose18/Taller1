@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="calzadodeportivo">SportShoes</string>
+    <string name="sexo">Sex</string>
+    <string name="escoge_tu_zapato">Pick your shoe (personalized)</string>
+    <string name="marca">Brand</string>
+    <string name="nombres_completos">Complete names</string>
+    <string name="apellidos_completos">" Full Surnames"</string>
+    <string name="tipo_de_zapato">Shoe Type</string>
+    <string name="cantidad">Quantity</string>
+    <string name="borrar">DELETE</string>
+    <string name="comprar">BUY</string>
+    <string name="masculino">male</string>
+    <string name="femenino">female</string>
+    <string name="mensaje_error_uno">Enter their full names</string>
+    <string name="mensaje_error_dos">Enter your full surname</string>
+    <string name="mensaje_error_tres">enter the amount of shoes to buy</string>
+    <string name="zapatilla">Sneakers</string>
+    <string name="clasico">Classic</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="valor_a_pagar">The value to pay is</string>
+    <string name="valor_mayor_a_cero">You must enter a value greater than zero</string>
+</resources>

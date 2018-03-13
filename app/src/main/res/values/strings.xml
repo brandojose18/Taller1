@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="calzadodeportivo">Calzado Deportivo</string>
+    <string name="nombres_completos">Nombres Completos</string>
+    <string name="apellidos_completos">Apellidos Completos</string>
+    <string name="escoge_tu_zapato">Escoge tu Zapato(Personalizado)</string>
+    <string name="sexo">Sexo</string>
+    <string name="tipo_de_zapato">Tipo De Zapato</string>
+    <string name="marca">Marca</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="borrar">BORRAR</string>
+    <string name="comprar">COMPRAR</string>
+    <string-array name="sexo">
+        <item>@string/masculino</item>
+        <item>@string/femenino</item>
+    </string-array>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="mensaje_error_uno">Digite sus nombres completo</string>
+    <string name="mensaje_error_dos">Digite sus apellidos completos</string>
+    <string name="mensaje_error_tres">Digite la cantidad de zapatos a comprar</string>
+    <string-array name="tipoDeZapato">
+        <item>@string/zapatilla</item>
+        <item>@string/clasico</item>
+    </string-array>
+    <string-array name="marca">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </string-array>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clasico</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="valor_a_pagar">El valor a pagar es</string>
+    <string name="valor_mayor_a_cero">Debes digitar un valor mayor a cero</string>
+</resources>
